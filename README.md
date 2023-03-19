@@ -9,7 +9,7 @@ This is the code repo for the Booking App with Laravel.
 
 ## Installation
 
-- Clone the repo: `git clone git@github.com:vitalii4709/laravel-booking`
+- Clone the repo: `git clone https://github.com/vitalii4709/laravel-booking.git`
 - Go into the repo: `cd laravel-booking`
 - Install dependencies: `composer install`
 - Install dependencies: `npm install`
